@@ -64,4 +64,5 @@ You can add screenshots of the application window and hand gestures here for ref
 - [PyAutoGUI](https://pyautogui.readthedocs.io/)
 
 ## License
-MIT License
+
+Codingal
